@@ -760,6 +760,56 @@ html {
 
 /* customise cursor  */
 /* Apply custom cursor globally */
+
+
+@media (max-width: 768px) {
+  .home {
+    flex-direction: column;
+    height: auto;
+    gap: 20px;
+  }
+
+  .home .left,
+  .home .right .img {
+    width: 90%;
+    padding: 20px;
+  }
+
+  .skills {
+    width: 100%;
+  }
+
+  .skills .items .item {
+    width: 100%;
+  }
+
+  .project .items .item {
+    max-width: 100%;
+  }
+}
+
+/* For screens larger than 768px and smaller than 1200px (tablets) */
+@media (min-width: 768px) and (max-width: 1200px) {
+  .home {
+    flex-direction: column;
+    height: auto;
+    gap: 20px;
+  }
+
+  .home .left,
+  .home .right .img {
+    width: 80%;
+  }
+
+  .skills {
+    width: 90%;
+  }
+
+  .project .items .item {
+    max-width: 45%;
+  }
+}
+
 /* body {
   cursor: url('custom-cursor.png'), auto; /* Use your cursor image */
 
