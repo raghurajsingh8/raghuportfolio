@@ -53,7 +53,7 @@ To run this project locally:
 
 ## Screenshots
 
-![Portfolio Screenshot](./screenshot.png)
+![Portfolio Screenshot](https://i.ibb.co/vCFT4bz/Screenshot-2024-12-01-135342.png)
 
 ## Project Structure
 
