@@ -1,17 +1,5 @@
 [
-  {
-    "id": 1,
-    "role": "Junior Frontend Web developer",
-    "organisation": "Bharat Intern",
-    "startDate": "Aug, 2023",
-    "endDate": "Sep ,2023",
-    "location": "Remote",
-    "experiences": [
-      "Worked on Personal Projects",
-      "Portfolio|| Temperature Converter || To-do List"
-    ],
-    "imageSrc": "company/bharatintern.jpeg"
-  },
+  
   {
     "id": 2,
     "role": "Full Stack Engineer With Data Analytics",
