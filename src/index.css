@@ -748,11 +748,19 @@ a{
 
 /* Marquee scroll animation */
 
-.nav_bar{
+.nav_bar {
   position: fixed;
-  /* margin: 30px;; */
-  
+  top: 0; /* Navbar ko top par fix karne ke liye */
+  left: 0; /* Navbar ko left par fix karne ke liye */
+  width: 100%; /* Navbar ko full width dene ke liye */
+  background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent background agar chahte hain */
+  z-index: 1000; /* Navbar ko baaki content ke upar rakhne ke liye */
 }
+
+body {
+  margin-top: 60px; /* Yaha par aap navbar ke height ke hisaab se space adjust kar sakte hain */
+}
+
 html {
   scroll-behavior: smooth;
 }
@@ -760,8 +768,11 @@ html {
 
 /* customise cursor  */
 /* Apply custom cursor globally */
+/* body {
+  cursor: url('custom-cursor.png'), auto; /* Use your cursor image */
 
-
+/* Custom Mouse Circle */
+/* For screens smaller than 768px (mobile) */
 @media (max-width: 768px) {
   .home {
     flex-direction: column;
@@ -809,8 +820,15 @@ html {
     max-width: 45%;
   }
 }
+.nav_bar {
+  position: fixed;
+  top: 0; /* Navbar ko top par fix karne ke liye */
+  left: 0; /* Navbar ko left par fix karne ke liye */
+  width: 100%; /* Navbar ko full width dene ke liye */
+  background-color: rgba(11,26, 51); /* Semi-transparent background agar chahte hain */
+  z-index: 1000; /* Navbar ko baaki content ke upar rakhne ke liye */
+}
 
-/* body {
-  cursor: url('custom-cursor.png'), auto; /* Use your cursor image */
-
-/* Custom Mouse Circle */
+body {
+  margin-top: 60px; /* Yaha par aap navbar ke height ke hisaab se space adjust kar sakte hain */
+}
