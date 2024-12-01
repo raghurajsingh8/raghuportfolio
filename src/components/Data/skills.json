@@ -1,0 +1,58 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Tailwind",
+    "imageSrc": "skills/Tailwind.png"
+  },
+  {
+    "title":"Bootstrap",
+    "imageSrc":"skills/bootstrap.png"
+  },
+  {
+    "title": "GSAP",
+    "imageSrc": "skills/gsap.jpeg"
+  },
+  {
+    "title": "PYTHON",
+    "imageSrc": "skills/python.jpeg"
+  },
+  {
+    "title": "DJANGO",
+    "imageSrc": "skills/django.png"
+  },
+  {
+    "title": "Node.js",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Express.js",
+    "imageSrc": "skills/exp.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongo.jpeg"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.jpeg"
+  },
+  {
+    "title": "Power BI",
+    "imageSrc": "skills/power.jpeg"
+  }
+]

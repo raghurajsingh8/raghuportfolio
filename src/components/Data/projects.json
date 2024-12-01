@@ -1,0 +1,50 @@
+[
+  {
+    "key": 1,
+    "title": "Notes App",
+    "imageSrc": "https://i.ibb.co/MVyqY73/Screenshot-2024-11-01-224339.png",
+    "description": "Notes App store data in local storage and print list using HTML CSS & javascript",
+    "demo": "https://raghurajsingh8.github.io/Notes_App/",
+    "source": "https://github.com/raghurajsingh8/Notes_App"
+  },
+  {
+    "key": 2,
+    "title": "TIC TAC TOE",
+    "imageSrc": "https://i.ibb.co/8j2RYVB/Screenshot-2024-11-01-225108.png",
+    "description": "TIC TAC TOE game using frontend Technologies: HTML, CSS, JavaScript",
+    "demo": "https://raghurajsingh8.github.io/tictactoe/",
+    "source": "https://github.com/raghurajsingh8/tictactoe"
+  },
+  {
+    "key": 3,
+    "title": "  LMS",
+    "imageSrc": "https://i.ibb.co/wN5qSG0/Screenshot-2024-11-01-225439.png",
+    "description": "LMS Using HTML CSS JS and excel .",
+    "demo": "https://raghurajsingh8.github.io/innotechdemoLMS/home.html",
+    "source": "https://github.com/raghurajsingh8/innotechdemoLMS"
+  }, {
+    "key": 4,
+    "title": "Power BI Dashboard",
+    "imageSrc": "https://i.ibb.co/tXDRj1t/Screenshot-2024-11-01-231150.png",
+    "description": "Power BI demo project for dummy data",
+    "demo": "https://www.linkedin.com/in/raghuraj-pratap-singh-kietians/details/projects/896325007/multiple-media-viewer/?profileId=ACoAAENotXcBygzLQKbztHEqKJe5ixcDdSgtGko&treasuryMediaId=1729620662600&type=IMAGE",
+    "source": "https://www.linkedin.com/in/raghuraj-pratap-singh-kietians/details/projects/896325007/multiple-media-viewer/?profileId=ACoAAENotXcBygzLQKbztHEqKJe5ixcDdSgtGko&treasuryMediaId=1729620662600&type=IMAGE"
+  },
+  {
+    "key": 4,
+    "title": "Power BI Dashboard",
+    "imageSrc": "https://i.ibb.co/QkYBBKV/Screenshot-2024-11-01-231918.png",
+    "description": "Power BI demo project for dummy data",
+    "demo": "https://www.linkedin.com/in/raghuraj-pratap-singh-kietians/details/projects/896325007/multiple-media-viewer/?profileId=ACoAAENotXcBygzLQKbztHEqKJe5ixcDdSgtGko&treasuryMediaId=1729620662600&type=IMAGE",
+    "source": "https://www.linkedin.com/in/raghuraj-pratap-singh-kietians/details/projects/896325007/multiple-media-viewer/?profileId=ACoAAENotXcBygzLQKbztHEqKJe5ixcDdSgtGko&treasuryMediaId=1729620662600&type=IMAGE"
+  },
+  {
+    "key": 4,
+    "title": "Djnago Full Stack Demo",
+    "imageSrc": "https://i.ibb.co/mDmF1tr/Screenshot-2024-12-01-124203.png",
+    "description": "Django Datavase Connectivity Demo successfull Authentication Setup",
+    "demo": "https://auth-1-umvn.onrender.com/",
+    "source": "https://github.com/raghurajsingh8/Auth"
+
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "role": "Junior Frontend Web developer",
+    "organisation": "Bharat Intern",
+    "startDate": "Aug, 2023",
+    "endDate": "Sep ,2023",
+    "location": "Remote",
+    "experiences": [
+      "Worked on Personal Projects",
+      "Portfolio|| Temperature Converter || To-do List"
+    ],
+    "imageSrc": "company/bharatintern.jpeg"
+  },
+  {
+    "id": 2,
+    "role": "Full Stack Engineer With Data Analytics",
+    "organisation": "Newpious Synergies",
+    "startDate": "Oct, 2024",
+    "endDate": "Present",
+    "location": "Lucknow, UP",
+    "experiences": ["Internship",
+      "Solar Panel calculator based on Electricity Consumption",
+      "Data Automation with Frontend and Power BI"
+      
+    ],
+    "imageSrc": "company/companylogo.webp"
+  },
+  {
+    "id": 3,
+    "role": "H-class Officer",
+    "organisation": "MLSA KIET",
+    "startDate": "Jul, 2024",
+    "endDate": "Present",
+    "location": "KIET, UP",
+    "experiences": [
+      "Member-->Core Team-->Web Coordinator",
+      "Full stack Internship Manager-->Candidate Evaluator"
+    ],
+    "imageSrc": "company/MLSA.jpeg"
+  },
+  {
+    "id": 3,
+    "role": "Web Development Member",
+    "organisation": "Kinesis Technical Society",
+    "startDate": "May, 2024",
+    "endDate": "Present",
+    "location": "KIET, UP",
+    "experiences": [
+      "Engaged in club activities focused on web development.",
+      "Organized and executed online events,"
+    ],
+    "imageSrc": "company/KTS.jpeg"
+  }
+]
