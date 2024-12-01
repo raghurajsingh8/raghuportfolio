@@ -21,7 +21,7 @@ import Hero from './Data/hero.json';
  * <Home />
  */
 /******  3bb4a470-ce49-4f2d-8cc6-034734776cce  *******/const Home = () => {
- const textArray = [];
+ const textArray = ["Hello I am Raghuraj Singh","A Full Stack Web Developer"];
  let textIndex = 0;
  let charIndex = 0;
  let typing = true;
