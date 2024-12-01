@@ -64,7 +64,7 @@ if (typing) {
    <br>
    <br>
     <br>
-    <br></br>
+    <br>
 <div className="container home" id="home">
     <div className="left">
      <h1>
